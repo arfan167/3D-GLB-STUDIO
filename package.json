@@ -1,0 +1,8 @@
+{
+  "name": "3dglbstudio",
+  "version": "1.0.0",
+  "description": "3D GLB Model Studio",
+  "main": "main.js",
+  "author": "Arfan",
+  "license": "ISC"
+}
